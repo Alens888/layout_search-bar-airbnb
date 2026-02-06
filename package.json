@@ -2,6 +2,7 @@
   "name": "layout-search-bar-airbnb",
   "version": "1.0.0",
   "description": "Search bar testing",
+  "homepage": "https://alens888.github.io/layout_search-bar-airbnb/",
   "scripts": {
     "init": "mate-scripts init",
     "start": "mate-scripts start",
